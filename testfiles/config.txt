@@ -1,0 +1,3 @@
+lm.lmig.com
+password=limuemurox123!
+secret=TOTESLEGIT
